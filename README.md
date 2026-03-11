@@ -2,6 +2,8 @@
 
 TP de groupe pour la formation Concepteur développeur en science des données.
 
+## Structure
+
 ## Auteurs
 
 Angèle Despretz
